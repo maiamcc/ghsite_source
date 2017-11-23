@@ -13,16 +13,26 @@ I tend not to code an awful lot outside of work, because in my free time I recha
     <p>
         <h3><a href="//github.com/maiamcc/xkcd_binge" target="_blank">XKCD Binge</a></h3><h4>(Javascript)</h4>
     </p>
-        <strong>What</strong>: a <a href="//chrome.google.com/webstore/detail/xkcd-binge/pnhnbhcdjnblacgalelbbnkpkkffchgb?hl=en-US&gl=US" target="_blank">Chrome extension</a> to make browsing XKCD easier
-    </p>
+        <strong>What</strong>: a <a href="//chrome.google.com/webstore/detail/xkcd-binge/pnhnbhcdjnblacgalelbbnkpkkffchgb?hl=en-US&gl=US" target="_blank">Chrome extension</a> to make browsing XKCD easier -- I wanted to reread XKCD from the beginning, so I threw together an extension to enable me to do all of my browsing from my keyboard.
     <p>
         <strong>When</strong>: May 2017
     </p>
     <p>
-        <strong>Why</strong>: I wanted to reread XKCD from the beginning, so I threw together an extension to enable me to do all of my browsing from my keyboard
+        <strong>Status</strong>: published to the <a href="//chrome.google.com/webstore/detail/xkcd-binge/pnhnbhcdjnblacgalelbbnkpkkffchgb?hl=en-US&gl=US" target="_blank">Chrome Web Store</a>
+    </p>
+</div>
+
+<div class="project">
+    <p>
+        <h3><a href="//github.com/RagtagOpen/nomad" target="_blank">Project Nomad</a></h3><h4>(Python, Flask)</h4>
+    </p>
+        <strong>What</strong>: I contributed to <a href="//ragtag.org/nomad/">Project Nomad</a>, a web app developed by <a href="//ragtag.org">Ragtag</a> to help canvassing volunteers organize carpools to areas where their work can have the greatest impact.
     </p>
     <p>
-        <strong>Status</strong>: published to the <a href="//chrome.google.com/webstore/detail/xkcd-binge/pnhnbhcdjnblacgalelbbnkpkkffchgb?hl=en-US&gl=US" target="_blank">Chrome Web Store</a>
+        <strong>When</strong>: Summer/Fall 2017 
+    </p>
+    <p>
+        <strong>Status</strong>: finished and available for use by candidates! 
     </p>
 </div>
 
@@ -36,9 +46,6 @@ I tend not to code an awful lot outside of work, because in my free time I recha
         <strong>When</strong>: November 2016
     </p>
     <p>
-        <strong>Why</strong>: 2016 presidential election
-    </p>
-    <p>
         <strong>Status</strong>: my code was in use generating the website before we stopped maintaining it. I may someday generalize this code for wider use.
     </p>
 </div>
@@ -48,13 +55,10 @@ I tend not to code an awful lot outside of work, because in my free time I recha
     <p>
         <h3><a href="//github.com/maiamcc/thumbnailer" target="-_blank">Thumbnailer</a></h3><h4>(Python, using <a href="//pillow.readthedocs.io/en/4.1.x/" target="-_blank">Pillow</a>)</h4>
     </p>
-        <strong>What</strong>: utility to make thumbnails of your images
+        <strong>What</strong>: utility to make thumbnails of your images. I was working on a freelance web dev project and needed thumbnails of all of the images, so instead of spending 30 minutes in PhotoShop, I spent three hours writing this. Time well spent? 
     </p>
     <p>
         <strong>When</strong>: March 2015
-    </p>
-    <p>
-        <strong>Why</strong>: working on a freelance web dev project, needed thumbnails of all of the images. Instead of spending 30 minutes in PhotoShop, I spent three hours writing this. Time well spent?
     </p>
     <p>
         <strong>Status</strong>: complete (though who knows when I'll ever have occasion to use it again...)
@@ -65,13 +69,10 @@ I tend not to code an awful lot outside of work, because in my free time I recha
     <p>
         <h3><a href="//github.com/maiamcc/gravity" target="_blank">Gravity</a> (<a href="/projects/gravity/play.html">play it!</a>)</h3><h4>(Javascript, <a href="//codeheartjs.com" target="_blank">codeheart.js</a>)</h4>
     </p>
-        <strong>What</strong>: a gravity-bending platformer exhibiting the finest of programmer art. Want to know more? <a href="/projects/gravity/play.html">Play it here</a>!
+        <strong>What</strong>: a gravity-bending platformer exhibiting the finest of programmer art, written for the 2014 Williams College Game Jam. Want to know more? <a href="/projects/gravity/play.html">Play it here</a>!
     </p>
     <p>
         <strong>When</strong>: January 2014
-    </p>
-    <p>
-        <strong>Why</strong>: Williams College Game Jam '14
     </p>
     <p>
         <strong>Status</strong>: complete
@@ -86,9 +87,6 @@ I tend not to code an awful lot outside of work, because in my free time I recha
     </p>
     <p>
         <strong>When</strong>: Fall 2014 (Recurse Center)
-    <p>
-        <strong>Why</strong>: because PUNS! Also, I wanted to get practice working with someone else's API.
-    </p>
     <p>
         <strong>Status</strong>: complete, launched on Heroku, and promptly retired, as (much to my surprise!) it turns out that "[blank] 'er? I hardly know 'er!" is only funny for so long.
     </p>
