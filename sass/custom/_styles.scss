@@ -1,6 +1,8 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
+$color-windmill: #315D46;
+
 .singlespaced p{
   margin: 0;
 }
@@ -103,6 +105,12 @@ html {
       margin-bottom: 0.2em;
     }
   }
+
+  .windmill {
+    color: $color-windmill !important;
+    font-weight: bold;
+  }
+
 
 // RSS and Search
 @mixin mask-subscription-nav($feed: 'rss.png'){
