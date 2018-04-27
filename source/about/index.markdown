@@ -48,25 +48,26 @@ sidebar: false
 </script>
 
 <div id="biocontainer">
+  <div id="bionav">
     <ul>
-        <li id="small">
-          <a href="#small" onclick="loadBio(this.hash.slice(1))">Small Bio</a>
-        </li>
-        <div class="spacer">
-          |
-        </div>
-        <li id="med">
-          <a href="#med" onclick="loadBio(this.hash.slice(1))">Medium Bio</a>
-        </li>
-        <div class="spacer">
-          |
-        </div>
-        <li id="large">
-          <a href="#large" onclick="loadBio(this.hash.slice(1))">Large Bio</a>
-        </li>
+      <li id="small">
+        <a href="#small" onclick="loadBio(this.hash.slice(1))">Small Bio</a>
+      </li>
+      <div class="spacer">
+        |
+      </div>
+      <li id="med">
+        <a href="#med" onclick="loadBio(this.hash.slice(1))">Medium Bio</a>
+      </li>
+      <div class="spacer">
+        |
+      </div>
+      <li id="large">
+        <a href="#large" onclick="loadBio(this.hash.slice(1))">Large Bio</a>
+      </li>
     </ul>
-
-    <div id="biotext"></div>
+  </div>
+  <div id="biotext"></div>
 </div>
 
 <div class="singlespaced">
