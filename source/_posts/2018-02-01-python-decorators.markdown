@@ -235,9 +235,7 @@ So after all that decorator magic, we’ve replaced `times_two` with an instance
 
 That's a great question. There are probably lots of fascinating answers. At this present moment, I only have two: "to store state" and "because you can". Since I've already covered the latter in quite a bit of detail, let's turn to the former, i.e., a halfway plausible case in which you might want to use a class as a decorator. (I’m sure there are other reasonable ways to store state on a function, as well as other compelling reasons to use classes as decorators, but let’s just go with this for now.)
 
-Unlike functions, which are (generally) one-and-done, classes allow you to store state. You can store state on an *instance* of a class, but in this case we're interested in something that's more widely accessible, i.e. *storing state on the class itself*.
-
-How might you use this in a decorator context? Consider something like this:
+Unlike functions, which are (generally) one-and-done, classes allow you to store state.[^4] How might you use this in a decorator context? Consider something like this:
 
 ```python
 class countcalls():
@@ -262,8 +260,6 @@ This func. has been called 1 time(s)
 This func. has been called 2 time(s)
 < "hello world"
 ```
-
-You can apply the above principle (storing state on the decorator class itself) in a wide and whacky variety of ways. Automatic memoization, perhaps?
 
 And heck, why not go for broke and use a class to decorate a class?!
 
@@ -306,3 +302,5 @@ There are lots of other resources on the interwebs about what sort of stuff you 
 [^2]: `MyClass(...)`, of course, being shorthand for `MyClass.__init__(...)`. (That's totally an oversimplification; `MyClass(...)` is *actually* shorthand for `MyClass.__new__(cls)`, which does a bunch of stuff, including call `__init__` on the newly made `MyClass` instance... but sufice it to say that when I call `MyClass(...)` I expect some stuff to happen, including a call to `MyClass.__init__`, and to eventually get back a new instance of that class.)
 
 [^3]: Note that since `MyClass(...)` is baaasically shorthand for `MyClass.__init__(...)` (see above), and so you can achieve a pretty similar effect by decorating the `__init__`  method. The thing passed into `announce_new_instance` to be transformed will be different, but the new function will execute in just about the same way.
+
+[^4]: Hat tip to [Jayant Jain](http://jayantj.github.io/), who pointed out an error I made in the original version of this blogpost. (Yes, if you really wanted to, you could store state on a function as well, cuz it's Python and everything is an object, including functions. For instance, I could totally set `my_func.some_value = "hello"`. However, it's awkward and unidiomatic. So like, go ahead and do that if you want, but it's kinda weird, and really it just makes more sense to use classes.)
