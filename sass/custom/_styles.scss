@@ -7,6 +7,12 @@ $color-windmill: #315D46;
   margin: 0;
 }
 
+.caption {
+  text-align: center;
+  font-size: 77%;
+  font-style: italic;
+}
+
 $border-ep: #E0E0E0;
 html {
      background: image-url('background.png') repeat-x scroll center top $page-bg;
