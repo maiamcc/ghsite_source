@@ -94,3 +94,5 @@ To kick off our practice session, our co-founders (by far our most experienced p
 We came away from our practice session more comfortable in our pitch, and more unified in our product vision. And because of our thorough prep work — for pitch, booth, and conference objectives alike — we were able to go into GothamGo prepared, aligned, and ready to make some new friends on behalf of Windmill.
 
 Want to see the fruits of our pitch-practicing? Luckily, it’s easy to get a first-hand demonstration: hit us up at [@windmill_eng](//twitter.com/windmill_eng) or [drop us an email](mailto:hi@windmill.engineering)!
+
+_Thanks to [Sarah Withee](https://twitter.com/geekygirlsarah) and [Rae Krantz](https://twitter.com/rustbeltrae) for their feedback on this post!_
