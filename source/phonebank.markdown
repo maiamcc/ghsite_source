@@ -11,6 +11,8 @@ footer: false
 
 [**Report your calls here**](https://goo.gl/forms/9QxgPagOmaXLIo5X2), and let's go save the world!
 
+(Afraid of phone calls? Never fear, [**you can txt-bank instead!**](http://openprogress.com/text-troop) I'll still donate for every voter you reach out to!)
+
 ### How do I phonebank?
 [SwingLeft recommends a couple of key races to call for](https://swingleft.org/p/call-voters). If you want to do your own homework, find a tight race (check out [FiveThirtyEight](https://projects.fivethirtyeight.com/2018-midterm-election-forecast/house/)) and Google "[candidate's name] online phonebank" or click around the candidate's homepage for a "Get Involved" or similar.
 
