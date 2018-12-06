@@ -25,26 +25,27 @@ I *didn't* physically fill this out, because I'm lazy---but I *did* go over all 
 
 I've been interviewing candidates at work for 2ish years now, so I have some idea of the questions that get asked in interviews and could think ahead about my answers to those[^1]: but by far the most useful prep I did here was to have people mock-interview me. Having to answer these questions *out loud* forced me to think about them more concretely, and I could also get feedback on the things that I was saying that were more or less impressive, red-flag-y, etc. ("If they ask you about conflicts with coworkers, tell story A, not story B, cuz in story A you resolved your disagreement, and in story B you were right and your coworker wrong and the system broke because of it, but even though you were right, it still resulted in the system breaking.")
 
-### Preparing YOUR Interview Qs
+### Preparing YOUR Interview Qs For THEM
 Another thing worth doing is preparing a list of questions that *you* want to ask *of your interviewers* to get a better idea about the company you may possibly work for. The better your questions for them, the more insight you can get into their workplace---and the more prepared you are with these questions, the less dumb you look in front of your interviewer.
 
 I read a bunch of "questions to ask in job interviews" articles, grilled my friends, and put together a big doc of the questions I thought were the most informative. Some useful blog posts on the topic:
+
 * https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/
 * http://juliepagano.com/blog/2015/08/15/job-search-retrospective/#interview-questions
 * http://lizabinante.com/blog/getting-hired-without-getting-burned/
 
 ## Algorithms
-To brush up on my algos, I worked through [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html), making sure to ask questions about/dig deeper into anything I didn't understand. Most of this I skimmed b/c I was already familiar with it, but I made sure to note the architypal problems for each data type ("oh, it's an X problem? You should use data structure Y!"), and paid special attention to trees and graphs cuz they're my weak spot.
+To brush up on my algos, I worked through [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html), making sure to ask questions about/dig deeper into anything I didn't understand. Most of this I skimmed because I was already familiar with it, but I made sure to note the architypal problems for each data type ("oh, it's an X problem? You should use data structure Y!"), and paid special attention to trees and graphs cuz they're my weak spot.
 
-And then it was just looots of practice problems. Some from Cracking the Coding Interview, some from [LeetCode](https://leetcode.com/), and as much practicing with friends as I could get. The best is to get friends who actually interview developers, because they know the ins and outs of their questions better, but even just having a friend mock-interview you with CtCI or LeetCode questions will do.
+And then it was just looots of practice problems. Some from *Cracking the Coding Interview*, some from [LeetCode](https://leetcode.com/), and as much practicing with friends as I could get. The best is to get friends who actually interview developers, because they know the ins and outs of their questions better, but even just having a friend mock-interview you with CtCI or LeetCode questions is better than nothing.
 
-Practicing algos Qs on your own just thinking through the solution, or writing the solution on a computer, is good. Writing it out on paper/a whiteboard is better. Practicing with a person (in a mock interview sort of capacity, where you're timed, they're giving you hints where necessary but pushing you to explain yourself) is best.
+Practicing algos Qs on your own just thinking through the solution, or writing the solution on a computer, is good. Writing it out on paper/a whiteboard is better. Practicing with a person (in a mock interview sort of capacity, where you're timed, they're giving you hints where necessary but pushing you to explain yourself) is best. Especially if technical interviews make you nervous: the more you do it, even with friends, the more used to that anxiety you'll be, and the better you'll be able to perform in the real thing.
 
 ## System Design
 
 Like with algos, mostly this was a matter of practice---getting friends to mock interview me with system design quesitons. I also went over some of the systems I built at work and made sure that I understood the technical choices and trade-offs there, so I could talk intelligently about it in interviews.
 
-A piece of advice I got here (which I didn't end up taking, and it all turned out okay, but I probably should have done this anyway) was to talk to folks at other companies about their system architecture. My Achilles' heel in system design interviews has always been that I'm only really familiar with the one or two paradigms I've worked in---talking to others' about *their* paradigms would have been super useful, and given me a lot more ideas to draw on.
+A piece of advice I got here (which I didn't end up taking, and it all turned out okay, but I probably should have done this anyway) was to talk to folks at other companies about their system architecture. My Achilles' heel in system design interviews has always been that I'm only really familiar with the one or two paradigms I've worked in---talking to others about *their* paradigms would have been super useful, and given me a lot more ideas to draw on.
 
 # How long did you prep for?
 I took two weeks off of work around Christmas/New Years, and was doing a bit of prep work every day---sometimes several hours of reading or practice interviews, sometimes 15 minutes researching a company or brushing up my resume, but I tried to do *something* every day. After that, I went back to my day job and I did a bit whenever I could---some problems on LeetCode in the evening, or a practice problem coffee date with a friend over the weekend. After a few weeks of occasional practice interviews, I felt pretty prepped. My process was pretty drawn out cuz I took my time to find companies I wanted to interview for, set up those interviews, etc., so I would keep doing the occasional practice problem during that to keep in shape, but mostly I felt pretty well prepared.
@@ -65,7 +66,7 @@ And then I dug into those companies. Looked for articles on company culture, the
 (I should note that an important part of this process was being clear on what I wanted out of my next company. Having a concrete idea of my own values helped me know what things to look for, which questions to ask, and which things were dealbreakers. It's worth spending a good chunk of time on this step, as it will inform the rest of your search. In particular, I found Key Values' [Culture Queries](https://www.keyvalues.com/culture-queries/) a useful place to start.)
 
 # Then what?
-Well hopefully, the offers start rolling in! Be transparent with everyone in your interview process about where you're at (esp. with other companies), what your concerns are, and what you need from them. Stating your needs going in sets a good precedent!
+Well hopefully, the offers start rolling in! Be transparent with everyone in your interview process about where you're at, what your concerns are, and what you need from them. Stating your needs going in sets a good precedent!
 
 When you start thinking about switching jobs, be prepared for lots of last minute insurance submissions and affair-getting-in-order, and remember to take any relevant documents off your computer/email/google drive, any relevant passwords off your password manager, etc. (Pro tip: if you know you'll be leaving early-ish in the year, max out your Flex Spending Account and you'll end up with free money! It's a good time to buy those prescription sunglasses you don't reaaally need, but heck, they're free!)
 
