@@ -64,7 +64,7 @@ func oozeAttack(o oozer) string {
 }
 ```
 
-If an object has all of the methods required for an interface, we say that that object *implements* (or satisfies) that interface. In this case, both `octopus` and `slug` implement `oozer` because they both have `ooze()` methods. The compiler can check this for us, so we know that anything we pass into `oozeAttack` has an `ooze()` method and won’t break out code—in stark contrast to the example above, where we could pass in *literally anything* and just had to pray that it wouldn’t cause a panic.
+If an object has all of the methods required for an interface, we say that that object *implements* (or satisfies) that interface. In this case, both `octopus` and `slug` implement `oozer` because they both have `ooze()` methods. The compiler can check this for us, so we know that anything we pass into `oozeAttack` has an `ooze()` method and won’t break our code—in stark contrast to the example above, where we could pass in *literally anything* and just had to pray that it wouldn’t cause a panic at runtime.
 
 
 ### Okay, But What Is an `interface{}`?
@@ -73,7 +73,7 @@ If you’ve been using Go for more than a couple of days, you’ve probably stum
 
 ```go
 func printMysteryObject(thing interface{}) {
-        fmt.Printf("Your mystery thing is: %v", thing)
+        fmt.Printf("Your mystery thing is: %v (of type %T)", thing, thing)
 }
 ```
 
