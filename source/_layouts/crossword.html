@@ -2,6 +2,7 @@
 layout: default
 comments: true
 ---
+{% include custom/facebook-init.html %}
 
 <div>
 <article role="article">
@@ -18,7 +19,7 @@ comments: true
       <div class="info difficulty"><em>Approx. difficulty</em>: NYT {{ page.day_of_week }}</div>
 
       <div class="center">
-        <a data-fancybox="gallery" href="/crosswords/{{page.slug}}/{{page.slug}}.png"><img src="/crosswords/{{page.slug}}/{{page.slug}}.png" width="150" height="194" alt="" /></a>
+        <a data-fancybox="gallery" href="/crosswords/{{page.slug}}/{{page.slug}}.pdf"><img src="/crosswords/{{page.slug}}/{{page.slug}}.png" width="150" height="194" alt="" /></a>
       </div>
 
       <div class="info files">
@@ -29,18 +30,17 @@ comments: true
     </div>
   </div>
 
-  <div class="back"><a href="..">← back</a></div>
+  <div class="back"><a href="/crosswords">← back</a></div>
 
     <footer>
       {% include post/sharing.html %}
     </footer>
 </article>
-{% if site.disqus_short_name %}
   <section>
-    <h2>Did it? Gave up? Loved it? Hated it? Leave a comment!</h2>
-    <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+    <h2 style="margin-bottom:0;">Solved it? Gave up? Loved it? Hated it? Leave a comment!</h2>
+    <h3>(No spoilers please!)</h3>
+    <div class="fb-comments" data-href="http://code.maiamccormick.com/crosswords/{{ page.slug }}" data-colorscheme="light" data-num-posts="6" data-width="100%"></div>
   </section>
-{% endif %}
 </div>
 <aside class="sidebar">
   {% include sidebar.html %}
