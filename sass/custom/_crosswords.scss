@@ -12,3 +12,17 @@
         text-indent: -2em;
     }
 }
+
+.single-puzzle {
+  img {
+    margin: 0.5em;
+  }
+
+  .files {
+    float: right;
+  }
+
+  .back {
+    display: inline;
+  }
+}

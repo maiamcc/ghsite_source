@@ -63,6 +63,14 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 #   3rd Party Settings    #
 # ----------------------- #
 
+# data_page_generator plugin by Adolfo Villafiorita
+page_gen:
+  - index_files: false
+    data: crosswords
+    template: crossword
+    name: slug
+    extension: html
+
 # Github repositories
 github_user: maiamcc
 github_repo_count: 10

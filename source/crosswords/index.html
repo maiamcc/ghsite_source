@@ -10,7 +10,7 @@ Take a look, and enjoy! (I'm new at this; feedback is welcome.)
     {% for puzzle in site.data.crosswords %}
     <div class="puzzle">
         <h3 class="title">
-            <a href="/crosswords/{{puzzle.slug}}/{{puzzle.slug}}.png" target="_blank">{{ puzzle.title }}</a>
+            <a href="{{puzzle.slug}}.html">{{ puzzle.title }}</a>
         </h3>
 
         <div class="info completed"><em>Completed</em>: {{ puzzle.date }}</div>
