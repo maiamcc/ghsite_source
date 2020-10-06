@@ -71,3 +71,17 @@
     }
   }
 }
+
+// GotV page
+div#counts {
+  display: flex;
+  justify-content: space-between;
+}
+
+span.count {
+  text-align: center;
+
+  h1 {
+    margin-bottom: 0;
+  }
+}
