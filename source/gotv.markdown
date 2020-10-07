@@ -30,42 +30,10 @@ Don't know where to start? [See below](#resources) for links and orgs.
 
 <h2 id="resources">Resources</h2>
 
-There are a LOT of ways to get involved, and it can feel overwhelming, but honestly, just pick one at random and you'll be making a difference! <3
+* [**No Regrets 2020**](https://docs.google.com/document/d/1DxPiSZ82AZoyHeICMP6tVVfJ2ItbKA0evpdkR7l7FiE/edit) (big list of ways to get involved)
+* For more on how to think about political volunteering and how to get started, [this is a great resource](https://docs.google.com/document/d/1XgjCe5YXxv9aI4Jk78YvqYN9Sa5o5M-vWpx5NKz3MDY/edit).
 
-### If you speak another language!
-* [Volunteer on the National Voter Assistance Hotline](https://go.joebiden.com/page/s/Voter-Protection-National-Hotline) to fight voter suppression!
-* _Speak Spanish??_ You're an especially valuable phonebanker! [Make calls for AZ/TX/CO/CA](https://www.committoflipblue.com/spanish)
-  * Speak any other language commonly spoken in the US? You can probably phonebank in it to reach underserved groups of voters!
+There are a LOT of ways to get involved, and it can feel overwhelming, but honestly, just pick one at random and you'll be making a difference! <3 Even just an hour a week is real and important work.
 
-### Phonebank
-* [Call for progressives/voter reg./GotV in PA](https://www.mobilize.us/pastandsup/?event_type=2)
-* Join the [Sunrise Movement Victory Squad](https://www.sunrisemovement.org/campaign/victory-squad/) to call for New Green Deal candidates
-* [Call for high prio. races with Sister District](https://www.mobilize.us/sisterdistrict/event/283539/)
-* [Call for Florida GotV/enrollment/vote-by-mail enrollment](https://www.floridadems.org/phone-banking/)
-* [Call (or text) with TX](https://act.txdemocrats.org/page/s/volunteer2020)
-* [Call for Biden with Democrats.org](https://events.democrats.org/?cf_zip=10012)
-* [Write/call/text with Turn PA Blue](https://turnpablue.org/take-action/)
-* [Call with People's Action](https://www.mobilize.us/peoplesaction/event/293197/)
-
-### Textbank
-* [Text for Biden with 2020 Victory](https://www.mobilize.us/2020victory/event/293967/)
-* [Text (or call) with TX](https://act.txdemocrats.org/page/s/volunteer2020)
-* [Write/call/text with Turn PA Blue](https://turnpablue.org/take-action/)
-* [Text with People's Action](https://www.mobilize.us/peoplesaction/event/289553/)
-
-### Postcard
-* [Send postcards to key races throughout the US](https://postcardstovoters.org/) with PostcardsToVoters
-* Join the [Sunrise Movement Victory Squad](https://www.sunrisemovement.org/campaign/victory-squad/) to postcard for New Green Deal candidates
-* [Get out the vote with Vote Forward](https://votefwd.org/)
-* [Write/call/text with Turn PA Blue](https://turnpablue.org/take-action/)
-
-### Misc.
-* [Volunteer on the National Voter Assistance Hotline](https://go.joebiden.com/page/s/Voter-Protection-National-Hotline) to fight voter suppression!
-* [Be a poll worker (paid!)](https://www.powerthepolls.org/) - we're facing a record shortage of poll workers this year!
-* Donate
-  * [Fair Fight GA](https://fairfight.com/)
-  * Any orgs on [this list compiled by some v knowledgeable folks](https://docs.google.com/document/d/14ahXmJToj8fUa7dnScEddeajWlikIWsm7rs-aOCmP2E/edit)
-
-#### Have a favorite event/group not listed here? Let me know:
-`moc.liamg@ccm.aiam` (but, yknow, forwards)
+Rather than reinventing the wheel, I'm linking to some very smart folks' guide on this subject: see the above guides for ways to get involved: donate, call, text, write, volunteer, whatever you can manage!
 
