@@ -7,13 +7,13 @@ sharing: true
 footer: false
 ---
 
-## For every call/text/postcard for blue candidates between now and Election Day (Tues. 11/3), I'll donate to the [ACLU](https://www.aclu.org/) (to a max of $500)!
+## For every call/text/postcard for blue candidates between now and Election Day (Tues. 11/3), I'll donate to the [ACLU](https://www.aclu.org/) (to a max of $1000)!
 
 Don't know where to start? [See below](#resources) for links and orgs.
 
 <div id="counts">
     <span class="count">
-        <h1>99</h1>
+        <h1>159</h1>
         <h3>calls ($1 ea.)</h3>
     </span>
     <span class="count">
@@ -21,7 +21,7 @@ Don't know where to start? [See below](#resources) for links and orgs.
         <h3>postcards (75¢ ea.)</h3>
     </span>
     <span class="count">
-        <h1>2750</h1>
+        <h1>3350</h1>
         <h3>texts (10¢ ea.)</h3>
     </span>
 </div>
