@@ -21,7 +21,7 @@ Don't know where to start? [See below](#resources) for links and orgs.
         <h3>postcards (75¢ ea.)</h3>
     </span>
     <span class="count">
-        <h1>3350</h1>
+        <h1>6950</h1>
         <h3>texts (10¢ ea.)</h3>
     </span>
 </div>
