@@ -7,13 +7,9 @@ sharing: true
 footer: false
 ---
 
-## For every call/text/postcard for blue candidates between now and Election Day (Tues. 11/3), I'll donate to the [ACLU](https://www.aclu.org/) (to a max of $1000)!
-
-Don't know where to start? [See below](#resources) for links and orgs.
-
 <div id="counts">
     <span class="count">
-        <h1>199</h1>
+        <h1>404</h1>
         <h3>calls ($1 ea.)</h3>
     </span>
     <span class="count">
@@ -21,12 +17,16 @@ Don't know where to start? [See below](#resources) for links and orgs.
         <h3>postcards (75¢ ea.)</h3>
     </span>
     <span class="count">
-        <h1>6950</h1>
+        <h1>18625</h1>
         <h3>texts (10¢ ea.)</h3>
     </span>
 </div>
 
-<iframe class="gdoc" src="https://docs.google.com/forms/d/e/1FAIpQLSfzl0LBSkGFXldBT3WFwbJJm6QaiUwSvVl2REgQSHQRazzxcA/viewform?embedded=true" width="640" height="911" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+Numbers are in, and y'all really came through! With these numbers, plus 340 doors knocked on (from a distance) at 75¢ ea., that's over $2,800 dollars! So, I'm donating my max of $1,000.
+
+There's a lot of work still to be done, and I appreciate everything y'all have done and will do--thanks for helping make this country a better place. ❤️
+
+![Donation Receipt](/images/aclu-receipt.png)
 
 <h2 id="resources">Resources</h2>
 
