@@ -4,3 +4,6 @@
 [submodule "source/projects/gay_bingo"]
 	path = source/projects/gay_bingo
 	url = git@github.com:maiamcc/gay_bingo.git
+[submodule "source/projects/bird_gen"]
+	path = source/projects/bird_gen
+	url = git@github.com:maiamcc/bird_gen.git
