@@ -1,6 +1,7 @@
 ---
 layout: default
 comments: true
+sidebar: false
 ---
 {% include custom/facebook-init.html %}
 
@@ -16,10 +17,15 @@ comments: true
   <div class="puzzle-container single-puzzle">
     <div class="puzzle">
       <div class="info notes"><em>Constructor notes</em>: {{ page.notes }}</div>
-      <div class="info difficulty"><em>Approx. difficulty</em>: NYT {{ page.day_of_week }}</div>
+      {% if page.dimensions %}
+        <p class="info dimensions"><em>Dimensions</em>: {{ page.dimensions }}</div>
+      {% endif %}
+      {% if page.day_of_week %}
+        <div class="info difficulty"><em>Approx. difficulty</em>: NYT {{ page.day_of_week }}</div>
+      {% endif %}
 
       <div class="center">
-        <a data-fancybox="gallery" href="/crosswords/{{page.slug}}/{{page.slug}}.pdf"><img src="/crosswords/{{page.slug}}/{{page.slug}}.png" width="150" height="194" alt="" /></a>
+        <iframe width="100%" allowfullscreen="true" style="border:none;width: 100% !important;position: static;display: block !important;margin: 0 !important;" src="https://squares.io/solve/{{ page.squares_io_id }}?embed=1"></iframe>
       </div>
 
       <div class="info files">
@@ -31,8 +37,6 @@ comments: true
     </div>
     <div class="back"><a href="/crosswords">← back</a></div>
   </div>
-
-  To solve on your computer, open the <code>.puz</code> file in <a href="http://derekslager.com/puz/" target="_blank">this online solver</a> or in <a href="https://www.litsoft.com/across/alite/download/" target="_blank">Across Lite</a>.
 
     <footer>
       {% include post/sharing.html %}
