@@ -16,7 +16,12 @@ To solve these puzzles on your computer, open the `.puz` file in [this online so
 
         <div class="info completed"><em>Completed</em>: {{ puzzle.date }}</div>
         <div class="info notes"><em>Constructor notes</em>: {{ puzzle.notes }}</div>
-        <div class="info difficulty"><em>Approx. difficulty</em>: NYT {{ puzzle.day_of_week }}</div>
+        {% if puzzle.dimensions %}
+            <div class="info dimensions"><em>Dimensions</em>: {{ puzzle.dimensions }}</div>
+        {% endif %}
+        {% if puzzle.day_of_week %}
+            <div class="info difficulty"><em>Approx. difficulty</em>: NYT {{ puzzle.day_of_week }}</div>
+        {% endif %}
         <div class="info files"><em>Files</em>:
             <a href="/crosswords/{{puzzle.slug}}/{{puzzle.slug}}.pdf">PDF</a> |
             <a href="/crosswords/{{puzzle.slug}}/{{puzzle.slug}}.png">PNG</a> |

@@ -18,14 +18,14 @@ sidebar: false
     <div class="puzzle">
       <div class="info notes"><em>Constructor notes</em>: {{ page.notes }}</div>
       {% if page.dimensions %}
-        <p class="info dimensions"><em>Dimensions</em>: {{ page.dimensions }}</div>
+        <div class="info dimensions"><em>Dimensions</em>: {{ page.dimensions }}</div>
       {% endif %}
       {% if page.day_of_week %}
         <div class="info difficulty"><em>Approx. difficulty</em>: NYT {{ page.day_of_week }}</div>
       {% endif %}
 
       <div class="center">
-        <iframe width="100%" allowfullscreen="true" style="border:none;width: 100% !important;position: static;display: block !important;margin: 0 !important;" src="https://squares.io/solve/{{ page.squares_io_id }}?embed=1"></iframe>
+        <iframe height="550px" width="100%" allowfullscreen="true" style="border:none;width: 100% !important;position: static;display: block !important;margin: 0 !important;" src="https://squares.io/solve/{{ page.squares_io_id }}?embed=1"></iframe>
       </div>
 
       <div class="info files">
