@@ -3,9 +3,7 @@ layout: page
 title: "Crosswords By Maia"
 sidebar: true
 ---
-I write crossword puzzles sometimes (using <a href="http://beekeeperlabs.com/crossfire/" target="_blank">Crossfire</a>). Take a look, and enjoy! (I'm new at this; feedback is welcome.)
-
-To solve these puzzles on your computer, open the `.puz` file in [this online solver](http://derekslager.com/puz/) or in [Across Lite](https://www.litsoft.com/across/alite/download/).
+I write crossword puzzles sometimes (using <a href="http://beekeeperlabs.com/crossfire/" target="_blank">Crossfire</a>).
 
 <div class="puzzle-container">
     {% for puzzle in site.data.crosswords %}
