@@ -7,18 +7,30 @@ sharing: false
 footer: false
 sidebar: false
 ---
-I tend not to code an awful lot outside of work, because in my free time I recharge best away from a computer screen, and I've got more than enough interetsing coding problems to tackle in the office. Still, sometimes I do stuff. On this page you'll find a handful of projects I've been hacking on recently, _or_ projects I did in the past that I deem fit for human consumption, _or_ projects I worked on wayyy back that are just entertaining. For a more complete picture of my extracurricular coding, go poke around on [my Github](//github.com/maiamcc).
+I recharge best away from a screen, but here are some toy apps and pet projects I've made or contributed to. For a more complete picture of my extracurricular coding, go poke around on [my Github](//github.com/maiamcc).
 
 <div class="project">
     <p>
-        <h3><a href="//github.com/maiamcc/gay_bingo" target="_blank">Gay Bingo</a> (<a href="/projects/gay_bingo">play it!</a>)</h3><h4>(HTML/CSS, Javascript)</h4>
+        <h3><a href="//github.com/maiamcc/bird_gen" target="_blank">Gay Bingo</a> (<a href="/bird_gen">play it!</a>)</h3><h4>(Javascript)</h4>
     </p>
-        <strong>What</strong>: gay (specifically WLW) bingo---because sometimes an idea sticks in your head and won't leave. Give it a shot, it's interactive!
+        <strong>What</strong>: generate new and innovate bird names to impress your friends!
+    <p>
+    </p>
+    <p>
+        <strong>Why</strong>: eating breakfast at my sweetie's house, I was looking at the varyingly silly names on the "Birds of New England" poster and was like "psh, naming birds isn't so hard, I could do that!"
+    </p>
+    <p>
+        <strong>When</strong>: Feb 2021
+    </p>
+</div>
+
+<div class="project">
+    <p>
+        <h3><a href="//github.com/maiamcc/gay_bingo" target="_blank">Gay Bingo</a> (<a href="/gay_bingo">play it!</a>)</h3><h4>(HTML/CSS, Javascript)</h4>
+    </p>
+        <strong>What</strong>: gay (specifically WLW) bingo---because sometimes an idea sticks in your head and won't leave. Give it a shot, it's interactive! (Styling is for chumps, right?)
     <p>
         <strong>When</strong>: Sept. 2019
-    </p>
-    <p>
-        <strong>Status</strong>: well, it's on the internet! Styling is for chumps, right? (No, styling is just for people with more skill/patience/free time than I have.)
     </p>
 </div>
 
@@ -26,12 +38,9 @@ I tend not to code an awful lot outside of work, because in my free time I recha
     <p>
         <h3><a href="//github.com/maiamcc/xkcd_binge" target="_blank">XKCD Binge</a></h3><h4>(Javascript)</h4>
     </p>
-        <strong>What</strong>: a <a href="//chrome.google.com/webstore/detail/xkcd-binge/pnhnbhcdjnblacgalelbbnkpkkffchgb?hl=en-US&gl=US" target="_blank">Chrome extension</a> to make browsing XKCD easier -- I wanted to reread XKCD from the beginning, so I threw together an extension to enable me to do all of my browsing from my keyboard.
+        <strong>What</strong>: a <a href="//chrome.google.com/webstore/detail/xkcd-binge/pnhnbhcdjnblacgalelbbnkpkkffchgb?hl=en-US&gl=US" target="_blank">Chrome extension</a> to make browsing XKCD easier -- I wanted to reread XKCD from the beginning, so I threw together an extension to enable me to do all of my browsing from my keyboard. Get it on the <a href="//chrome.google.com/webstore/detail/xkcd-binge/pnhnbhcdjnblacgalelbbnkpkkffchgb?hl=en-US&gl=US" target="_blank">Chrome Web Store</a>
     <p>
         <strong>When</strong>: May 2017
-    </p>
-    <p>
-        <strong>Status</strong>: published to the <a href="//chrome.google.com/webstore/detail/xkcd-binge/pnhnbhcdjnblacgalelbbnkpkkffchgb?hl=en-US&gl=US" target="_blank">Chrome Web Store</a>
     </p>
 </div>
 
@@ -43,9 +52,6 @@ I tend not to code an awful lot outside of work, because in my free time I recha
     </p>
     <p>
         <strong>When</strong>: Summer/Fall 2017
-    </p>
-    <p>
-        <strong>Status</strong>: finished and available for use by candidates!
     </p>
 </div>
 
@@ -61,9 +67,6 @@ I tend not to code an awful lot outside of work, because in my free time I recha
     <p>
         <strong>Why</strong>: because I have a deep and undying love of Christmas carols
     </p>
-    <p>
-        <strong>Status</strong>: the framework for generating the booklet is complete, and now the music files can be edited/updated/added to at will for future generations of caroling gatherings.
-    </p>
 </div>
 
 <div class="project">
@@ -74,9 +77,6 @@ I tend not to code an awful lot outside of work, because in my free time I recha
     </p>
     <p>
         <strong>When</strong>: November 2016
-    </p>
-    <p>
-        <strong>Status</strong>: my code was in use generating the website before we stopped maintaining it. I may someday generalize this code for wider use.
     </p>
 </div>
 
@@ -89,9 +89,6 @@ I tend not to code an awful lot outside of work, because in my free time I recha
     <p>
         <strong>When</strong>: March 2015
     </p>
-    <p>
-        <strong>Status</strong>: complete (though who knows when I'll ever have occasion to use it again...)
-    </p>
 </div>
 
 <div class="project">
@@ -103,20 +100,15 @@ I tend not to code an awful lot outside of work, because in my free time I recha
     <p>
         <strong>When</strong>: January 2014
     </p>
-    <p>
-        <strong>Status</strong>: complete
-    </p>
 </div>
 
 <div class="project">
     <p>
         <h3><a href="//github.com/maiamcc/punbot" target="_blank">Punbot</a></h3><h4>(Python, NLTK, Zulip API)</h4>
     </p>
-        <strong>What</strong>: a <a href="https://zulip.org" target="_blank">Zulip</a> bot that lurks until presented with an opportunity to make a quote-unquote "pun" of the form: "Parse 'er? I hardly know 'er!"
+        <strong>What</strong>: a <a href="https://zulip.org" target="_blank">Zulip</a> bot that lurks until presented with an opportunity to make a quote-unquote "pun" of the form: "Parse 'er? I hardly know 'er!" Triumphantly launched after completion and then promptly retired, as (much to my surprise!) it turns out that jokes... get old?! Who knew?
     </p>
     <p>
         <strong>When</strong>: Fall 2014 (Recurse Center)
-    <p>
-        <strong>Status</strong>: complete, launched on Heroku, and promptly retired, as (much to my surprise!) it turns out that "[blank] 'er? I hardly know 'er!" is only funny for so long.
     </p>
 </div>
