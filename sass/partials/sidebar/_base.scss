@@ -11,14 +11,22 @@ aside.sidebar {
     font-size: .8em;
     line-height: 1.4em;
     margin-bottom: 1.5em;
-    h1 {
-      margin: 1.5em 0 0;
+
+    div.heading {
       padding-bottom: .2em;
       border-bottom: 1px solid $sidebar-border;
       @extend .side-shadow-border;
       + p {
         padding-top: .4em;
       }
+    }
+
+    h1 {
+      margin: 1.5em 0 0;
+      border-bottom: none;
+      -moz-box-shadow: none;
+      -webkit-box-shadow: none;
+      box-shadow: none;
     }
   }
   img {
