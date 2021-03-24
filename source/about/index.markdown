@@ -72,6 +72,7 @@ sidebar: false
 <div class="singlespaced">
   <p><strong>Email</strong>: maia [dot] mcc [at] gmail [dot] com</p>
   <p><strong>Github</strong>: <a href="//github.com/maiamcc/" target="_blank">maiamcc</a></p>
+  <p><strong>LinkedIn</strong>: <a href="//https://www.linkedin.com/in/maia-mccormick-45790221/" target="_blank">Maia McCormick</a></p>
   <p><strong>Other Hats</strong>:</p>
     <ul>
       <li>I moonlight as a <a href="//contra.maiamccormick.com" target="_blank">contradance caller</a> in and around the Northeast</li>
