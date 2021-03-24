@@ -11,7 +11,7 @@ I recharge best away from a screen, but here are some toy apps and pet projects 
 
 <div class="project">
     <p>
-        <h3><a href="//github.com/maiamcc/bird_gen" target="_blank">Gay Bingo</a> (<a href="/bird_gen">play it!</a>)</h3><h4>(Javascript)</h4>
+        <h3><a href="//github.com/maiamcc/bird_gen" target="_blank">Bird Gen</a> (<a href="/bird_gen">play it!</a>)</h3><h4>(Javascript)</h4>
     </p>
         <strong>What</strong>: generate new and innovate bird names to impress your friends!
     <p>
