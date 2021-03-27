@@ -24,7 +24,7 @@ I write crossword puzzles sometimes (using <a href="http://beekeeperlabs.com/cro
             <a href="/crosswords/{{puzzle.slug}}/{{puzzle.slug}}.pdf">PDF</a> |
             <a href="/crosswords/{{puzzle.slug}}/{{puzzle.slug}}.puz" download>PUZ</a> |
             <a href="/crosswords/{{puzzle.slug}}/{{puzzle.slug}}.ipuz" download>IPUZ</a> |
-            <a href="/crosswords/{{puzzle.slug}}/{{puzzle.slug}}-solution.png">solution</a>
+            <a href="/crosswords/{{puzzle.slug}}/{{puzzle.slug}}-solution.pdf">solution</a>
         </div>
     </div>
     {% endfor %}
