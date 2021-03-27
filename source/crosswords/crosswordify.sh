@@ -29,4 +29,4 @@ puz_to_pdf $PUZ
 puz_to_pdf $PUZ --solution
 
 # 4. upload puzzle to squares.io and get ID
-curl -H "x-squares-api-key: $SQUARES_IO_API_KEY" -F v=2 -F dai='{"reusepid":true}' -F puz=@$IPUZ https://squares.io/api/1/puzzle
+curl -H "x-squares-api-key: $SQUARES_IO_API_KEY" -F v=2 -F data='{"reusepid":true}' -F puz=@$IPUZ https://squares.io/api/1/puzzle
