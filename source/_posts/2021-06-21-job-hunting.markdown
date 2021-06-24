@@ -90,7 +90,7 @@ I mention this here because the sooner you tell companies about your start date 
 ### In the Interview
 There's plenty of tech interview advice out there that's way better than what I can give, but I *will* say: in your interview, don't shit on your current job. If you have big frustrations, get them out of your system with a friend, and then workshop diplomatic answers to standard interview questions about why you’re leaving, a time you had a conflict with a coworker, etc. (Also, remember that when negotiation time rolls around, “I could always just stay at my current job”is a very powerful bargaining chip. Don’t take that away from yourself even if you have no intention of staying at your current job.)
 
-### Congrats, You've Landed an Awesome Job!
+### Congrats, You've Landed an Awesome Job 🎉
 Give your notice, thank your current job (or don't), consider giving an exit interview with some honest feedback (or don't)... and *celebrate*! Take a damn break and relax a little between roles. If you've got bandwidth, consider paying it forward by giving some mock interviews to people in your communities. If you're willing, consider sharing your new salary with friends and old coworkers to make this industry more transparent.
 
 And take a deep breath. You did it, congrats!
