@@ -6,21 +6,31 @@ comments: true
 categories: [tech, interviews, soft skills]
 ---
 
-How to do interview prep during your full time job
-[preamble goes here]
-[senior level]  
+Interviewing is stressful enough, but interviewing _while_ doing your day job? Yikes!
 
-### Don't panic
+[yikea]
+
+Well, I just did it, and I'm here to tell you that it's totally doable! In this post, I share my thoughts on interview prep, minimizing day job disruptions/keeping up appearances, etc.
+
+This last time around the interview cycle, I was still working at a company I wanted to do right by, but a lot of the advice below applies whether your aim is "I don't want to fuck over my current coworkers" or "I want to not burn bridges so I can get a recommendation from these people in future". (If you have no fucks left to give about your current job, then go nuts!)
+
+Note that I focus here on the experience of applying as a *senior software engineer*. I think affected the number of companies who wanted to interview me, and the types of interview questions I got. (For instance, my interviews were more focused on system design and troubleshooting than coding and algorithms, and for more junior positions, I'd probably expect the opposite.)
+
+As always, take my advice with a grain of salt, as [I have no idea what I'm doing]. Got more tips? Leave a comment below! Now, without further ado, I present:
+
+## Maia's Tips and Tricks for Interviewing While Day-Jobbing
+
+### Don't Panic
 No seriously, don't panic. It's gonna be okay. You're gonna start slowly and work your way up to interviews, you're gonna be smart about scheduling interviews to minimize disruption of your day job, and you are hireable and desirable and don't let that little jerk voice in your head tell you otherwise.
 
-### Set secrecy levels to... eh, something
+### Set Secrecy Levels to... Eh, Something
 If your current employer suspects that you're interviewing, it's not the worst thing! (There are of course some toxic workplaces that are the exception to this rule.) Everyone does it---it's part of the tech job circle of life. Don't go shouting it from the rooftops, and try to be discrete, but also don't worry too hard about whether you're being conspicuous. A. you're probably being a lot less obvious than you think (your co-workers/bosses aren't actually scrutinizing you that closely), but also B. if someone suspects that you're looking, whatever.
 
 Remember that you don't need to explain your "busy" calendar blocks to anyone. Get in the habit early of not offering explanations---instead of "Out of Office (dentist)", just mark "Out of Office".
 
 Don't tell your boss(es) before you're ready to give notice, but you can absolutely tell one or two trusted coworkers that you’re looking (this can be great moral support). Consider who you will ask for a reference, and consider letting them know that you're looking a little in advance of actually asking for the reference.
 
-### Minimizing work disruptions
+### Minimizing Work Disruptions
 Job hunting while working a job is tricky but absolutely doable. There will be some disruption to your day job, but with careful planning and good bookkeeping, you can minimize both that disruption, and the stress and guilt that sometimes comes with it. (Remember, you don't actually want to leave your current workplace in the lurch!)
 
 Step 1 is to accept that you won't be doing your day job at full capacity while interviewing. That's okay. Set expectations at work: keep people updated on your project timelines as they inevitably fall a little behind, and don't bite off more work than you can chew. Ideally, you can make an excuse of the form "I've got some personal stuff going on right now so I'll be working a little under capacity." That's it, that's all they need to know. Resist the instinct to give more details or make more excuses---everyone has lives.
@@ -55,15 +65,31 @@ Something that worked well for me: as soon as I realized I would be looking for 
 #### Practice Interviews!
 Above are some resources that you can use for self-study, but IMHO, by far the best way to prep for interviews is to do practice interviews! Reach out to your tech communities, old coworkers, friends in the industry, etc.---more than likely, there will be people willing to give you mock interviews in any of the above. In general, everyone in tech has had someone help them out in this capacity, so most of us are paying it forward and happy to help others!
 
+### Company Funnel and Scheduling Interviews
+It might go without saying, but: there's a lot of information to keep track of here, so decide how you're going to organize yourself. I kept a big spreadsheet with information about all the companies I was applying to (size, stack, location, etc.), and another spreadsheet listing my in-progress applications by stage, with next steps. A friend of mine keeps a Kanban board of their interviews, so they can tell at a glance what stage they're at with a given company.
 
-### Company funnel and scheduling interviews
-The first thing to do is pick the companies you'll be applying to. If you need ideas, start by looking at places your friends are happy, products that you use and are excited about, or teams with missions that fire you up. Check reviews on Glassdoor. Don't be afraid to hit up friends and LinkedIn connections for backchannel about a company. Get as much information as you can in the preliminary fact-finding stage so that you have an idea of whether the company will be a good fit.
+Now that you have a way to track the interview process, you need to figure out where you're applying. If you need ideas, start by looking at places your friends are happy, products that you use and are excited about, or teams with missions that fire you up. Check reviews on Glassdoor. Don't be afraid to hit up friends and LinkedIn connections for backchannel about a company. Get as much information as you can in the preliminary fact-finding stage so that you have an idea of whether the company will be a good fit.
 
-Do your best to keep all of your interview processes in sync with each other: first all the preliminary recruiter chats, and when you've finished those, *then* all the tech screens, and *then* the onsites, etc. (If you *can* take a whole week off of work to knock out all of your onsites, I highly recommend it! Remember, you want to take not only enough time to do the interviews, but also enough time to rest between them.)
-
-Be up front about your timeline from the very beginning, and repeat it every chance you get. Setting expectations for "I hope to do all my onsites the week of X and make a decision by Y" will help your interview coordinators help you, and make it easier for you to keep all your interview processes in sync with each other. (Likewise, if you have a specific timeline for *starting* your new position, repeat that early and often so it doesn't get lost in the shuffle.)
+Do your best to keep all of your interview processes in sync with each other: first all the preliminary recruiter chats, and when you've finished those, *then* all the tech screens, and *then* the onsites, etc.
 
 If you can afford to be picky with your companies, be picky! Narrow your options and don't try to play the field---move forward with at most 3 companies you're excited about. (I did 5, that was doable but also pretty stressful). Don’t be afraid to bow out of the process early with a given company if you're not excited about them. You can also always put companies on hold, and come back to them if none of your first choice companies work out.
 
-### In the interview
-There's plenty of tech interview advice out there that's way better than what I can give, but I _will_ say: in your interview, don't shit on your current job. If you have big frustrations, get them out of your system with a friend, and then workshop diplomatic answers to standard interview questions about why you’re leaving, a time you had a conflict with a coworker, etc. (Also, remember that when negotiation time rolls around, “I could always just stay at my current job”is a very powerful bargaining chip. Don’t take that away from yourself even if you have no intention of staying at your current job.)
+Be up front about your timeline from the very beginning, and repeat it every chance you get. Setting expectations for "I hope to do all my onsites the week of X and make a decision by Y" will help your interview coordinators help you, and make it easier for you to keep all your interview processes in sync with each other. Remember that the bigger a company, the slower it probably moves, so err on the side of starting earlier with the bigger companies on your list.
+
+#### On Taking Vacation While Interviewing
+If you *can* take a whole week off of work to knock out all of your onsites, I highly recommend it! It gives you more breathing room, and looks less conspicuous than a smattering of random mid-week days off. Remember, you want to take not only enough time to do the interviews, but also enough time to rest between them.
+
+A note to those with unlimited PTO: *take that vacation, yo!* Remember, you don't get paid out for "unused" vacation days, so you're shortchanging yourself unless you take off the time that you need.
+
+#### Take a Damn Break
+I highly, highly, *highly* recommend a break between jobs. It's the only time in this capitalist grind-machine that we get this much time off, so take advantage of it.
+
+I mention this here because the sooner you tell companies about your start date needs, the more likely it is that they can accommodate you (and if they can't, you can decide whether that's a deal-breaker). In general, start date timelines can take the form of specific dates ("I want to start on mm/dd/yyyyy") or intervals ("I want to start six weeks after signing"). I prefer the latter because it's not subject to getting messed up if interview timelines run long, but it's worth it to *keep repeating* to your recruiter, hiring manager, etc. (It's easy for someone to hear "I want to start 6 weeks after signing" as "I want to start on August 1", and when your interviews drag out and you sign on July 15, they still think you want to start on August 1.)
+
+### In the Interview
+There's plenty of tech interview advice out there that's way better than what I can give, but I *will* say: in your interview, don't shit on your current job. If you have big frustrations, get them out of your system with a friend, and then workshop diplomatic answers to standard interview questions about why you’re leaving, a time you had a conflict with a coworker, etc. (Also, remember that when negotiation time rolls around, “I could always just stay at my current job”is a very powerful bargaining chip. Don’t take that away from yourself even if you have no intention of staying at your current job.)
+
+### Congrats, You've Landed an Awesome Job!
+Give your notice, thank your current job (or don't), consider giving an exit interview with some honest feedback (or don't)... and *celebrate*! Take a damn break and relax a little between roles. If you've got bandwidth, consider paying it forward by giving some mock interviews to people in your communities. If you're willing, consider sharing your new salary with friends and old coworkers to make this industry more transparent.
+
+And take a deep breath. You did it, congrats!
