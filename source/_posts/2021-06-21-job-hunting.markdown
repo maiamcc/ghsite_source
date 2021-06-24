@@ -8,7 +8,7 @@ categories: [tech, interviews, soft skills]
 
 Interviewing is stressful enough, but interviewing _while_ doing your day job? Yikes!
 
-[yikea]
+![Yikea (like Ikea, but for Yikes)](/images/job-hunting/yikea.jpeg)
 
 Well, I just did it, and I'm here to tell you that it's totally doable! In this post, I share my thoughts on interview prep, minimizing day job disruptions/keeping up appearances, etc.
 
@@ -16,15 +16,16 @@ This last time around the interview cycle, I was still working at a company I wa
 
 Note that I focus here on the experience of applying as a *senior software engineer*. I think affected the number of companies who wanted to interview me, and the types of interview questions I got. (For instance, my interviews were more focused on system design and troubleshooting than coding and algorithms, and for more junior positions, I'd probably expect the opposite.)
 
-As always, take my advice with a grain of salt, as [I have no idea what I'm doing]. Got more tips? Leave a comment below! Now, without further ado, I present:
+As always, take my advice with a grain of salt, as [I have no idea what I'm doing](/images/job-hunting/no-idea.png). Got more tips? Leave a comment below! Now, without further ado, I present:
 
 ## Maia's Tips and Tricks for Interviewing While Day-Jobbing
 
 ### Don't Panic
+![Don't Panic (from Hitchhiker's Guide to the Galaxy)](/images/job-hunting/dont-panic.jpg)
 No seriously, don't panic. It's gonna be okay. You're gonna start slowly and work your way up to interviews, you're gonna be smart about scheduling interviews to minimize disruption of your day job, and you are hireable and desirable and don't let that little jerk voice in your head tell you otherwise.
 
 ### Set Secrecy Levels to... Eh, Something
-If your current employer suspects that you're interviewing, it's not the worst thing! (There are of course some toxic workplaces that are the exception to this rule.) Everyone does it---it's part of the tech job circle of life. Don't go shouting it from the rooftops, and try to be discrete, but also don't worry too hard about whether you're being conspicuous. A. you're probably being a lot less obvious than you think (your co-workers/bosses aren't actually scrutinizing you that closely), but also B. if someone suspects that you're looking, whatever.
+If your current employer suspects that you're interviewing, it's not the worst thing! (There are of course some toxic workplaces that are the exception to this rule.) Everyone does it---it's part of the tech job circle of life. Don't go shouting it from the rooftops, and try to be discrete, but also don't worry too hard about whether you're being conspicuous. You're probably being a lot less obvious than you think (your co-workers/bosses aren't actually scrutinizing you that closely). But also, if someone suspects that you're looking, whatever.
 
 Remember that you don't need to explain your "busy" calendar blocks to anyone. Get in the habit early of not offering explanations---instead of "Out of Office (dentist)", just mark "Out of Office".
 
@@ -47,7 +48,7 @@ If like me, you're *super intimidated* by the prospect of job hunting, remember 
 Something that worked well for me: as soon as I realized I would be looking for a new job, I put a recurring weekly 1 hour block of "interview prep" time on my calendar. It helped me make a little progress each week, without freaking out at all times about whether I "should" be prepping.
 
 #### What to Prep
-* **Resume** --- update your resume with all the cool stuff you've been doing lately. Write down all of the interesting projects you've done at this job; you'll only end up putting a few on your resume, but having a list of things you've worked on lately will be helpful for preparing answers to behavioral questions ("tell me about a time a project ran long" etc.).
+* **Resume** --- update your resume with all the cool stuff you've been doing lately. Write down all of the interesting projects you've done at this job; you'll only end up putting a few on your resume, but having a list of things you've worked on lately will be helpful for preparing answers to behavioral questions ("tell me about a time a project ran long" etc.). (You can also go the extra nine yards and customize your resume for each position you're applying to!)
 * **System Design** --- this is a big one the more senior you get. You should be able to talk in broad strokes about how you'd design various systems, and be familiar (at least in passing) with database operations, caching, load balancing, etc. Some good resources:
 	* [Awesome System Design](https://github.com/madd86/awesome-system-design)
 	* [System Design Primer](https://github.com/donnemartin/system-design-primer)
@@ -60,13 +61,13 @@ Something that worked well for me: as soon as I realized I would be looking for 
     * [Leetcode](https://leetcode.com/)
     * [Hackerrank](https://www.hackerrank.com/dashboard)
     * Any ["Advent of Code"](https://adventofcode.com/) problems
-* **Behavioral Questions (aka "Soft Skills")** --- don't neglect this prep! Take the time to outline answers to the common behavioral questions ("tell me about a conflict you had with a coworker" etc.) and practice talking through them, so you have examples at your fingertips. In particular, it's useful to workshop these answers with a friend/collegue/mentor so that you can cast difficult situations in the best light, make sure you're being honest without being overly critical, etc.
+* **Behavioral Questions (aka "Soft Skills")** --- don't neglect this prep! Take the time to outline answers to the common behavioral questions ("tell me about a conflict you had with a coworker" etc.) and practice talking through them, so you have examples at your fingertips. (If your current company has certain behavioral questions they like to ask in interviews, make sure you can answer all of those.) In particular, it's useful to workshop these answers with a friend/collegue/mentor so that you can cast difficult situations in the best light, make sure you're being honest without being overly critical, etc.
 
 #### Practice Interviews!
 Above are some resources that you can use for self-study, but IMHO, by far the best way to prep for interviews is to do practice interviews! Reach out to your tech communities, old coworkers, friends in the industry, etc.---more than likely, there will be people willing to give you mock interviews in any of the above. In general, everyone in tech has had someone help them out in this capacity, so most of us are paying it forward and happy to help others!
 
 ### Company Funnel and Scheduling Interviews
-It might go without saying, but: there's a lot of information to keep track of here, so decide how you're going to organize yourself. I kept a big spreadsheet with information about all the companies I was applying to (size, stack, location, etc.), and another spreadsheet listing my in-progress applications by stage, with next steps. A friend of mine keeps a Kanban board of their interviews, so they can tell at a glance what stage they're at with a given company.
+It might go without saying, but: there's a lot of information to keep track of here, so decide how you're going to organize yourself. I kept a big spreadsheet with information about all the companies I was applying to (size, stack, location, etc.), and another spreadsheet listing my in-progress applications by stage, with next steps. A friend of mine keeps a kanban board of their interviews, so they can tell at a glance what stage they're at with a given company.
 
 Now that you have a way to track the interview process, you need to figure out where you're applying. If you need ideas, start by looking at places your friends are happy, products that you use and are excited about, or teams with missions that fire you up. Check reviews on Glassdoor. Don't be afraid to hit up friends and LinkedIn connections for backchannel about a company. Get as much information as you can in the preliminary fact-finding stage so that you have an idea of whether the company will be a good fit.
 
