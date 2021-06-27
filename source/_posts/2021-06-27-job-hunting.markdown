@@ -10,7 +10,7 @@ Interviewing is stressful enough, but interviewing _while_ doing your day job?[^
 
 ![Yikea (like Ikea, but for Yikes)](/images/job-hunting/yikea.jpeg)
 
-Well, I just did it,[^2] and I'm here to tell you that it's totally doable! In this post, I share my thoughts on interview prep, minimizing day job disruptions, keeping up appearances at work, etc.
+Well, I just did it,[^2] and I'm here to tell you that it's totally doable! In this post, I share my thoughts on interview prep, minimizing day job disruptions, keeping up appearances at work, etc.<!-- more -->
 
 This last time around the interview cycle, I was still working at a company I wanted to do right by, but a lot of the advice below applies whether your aim is "I don't want to fuck over my current coworkers" or "I want to not burn bridges so I can get a recommendation from these people in future". (If you have no fucks left to give about your current job, then go nuts!)
 
