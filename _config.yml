@@ -48,14 +48,6 @@ paginate_categories: 5
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
 default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
 
-# data_page_generator plugin by Adolfo Villafiorita
-page_gen:
-  - index_files: false
-    data: crosswords
-    template: crossword
-    name: slug
-    extension: html
-
 # Github repositories
 github_user: maiamcc
 github_repo_count: 10
